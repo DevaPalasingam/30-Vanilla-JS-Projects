@@ -1,2 +1,2 @@
-*README*
-One day this project will be really cool!
+# 30 Vanilla JS Projects
+One day this repository will be really cool!
