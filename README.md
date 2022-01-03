@@ -9,3 +9,6 @@ One day this repository will be really cool!
 **02 - JS and CSS Clock** - Here I learned about:
 - Dates and times
 - CSS rotation
+
+**03 - CSS Variables** - Here I learned about:
+- CSS Variables
