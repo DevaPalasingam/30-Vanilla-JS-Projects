@@ -12,3 +12,6 @@ One day this repository will be really cool!
 
 **03 - CSS Variables** - Here I learned about:
 - CSS Variables
+
+**04 - Array Cardio Day 1** - Here I learned about:
+- Array functions
