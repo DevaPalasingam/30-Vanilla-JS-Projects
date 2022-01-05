@@ -15,3 +15,7 @@ One day this repository will be really cool!
 
 **04 - Array Cardio Day 1** - Here I learned about:
 - Array functions
+
+**05 - Flex Panel Gallery** - Here I learned about:
+- Flex Panel
+- Toggling Classes
