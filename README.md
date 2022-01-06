@@ -1,4 +1,4 @@
-# 30 Vanilla JS Projects
+# 30 Vanilla JavaScript Projects
 One day this repository will be really cool!
 
 **01 - Drumkit**
