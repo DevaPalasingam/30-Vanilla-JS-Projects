@@ -19,3 +19,7 @@ One day this repository will be really cool!
 **05 - Flex Panel Gallery** - Here I learned about:
 - Flex Panel
 - Toggling Classes
+
+**06 - Type Ahead** - Here I learned about:
+- Fetch calls
+- Regex
