@@ -23,3 +23,6 @@ One day this repository will be really cool!
 **06 - Type Ahead**
 - Fetch calls
 - Regex
+
+**07 - Array Cardio Day 2**
+- More Array functions
