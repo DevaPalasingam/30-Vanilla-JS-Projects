@@ -26,3 +26,6 @@ One day this repository will be really cool!
 
 **07 - Array Cardio Day 2**
 - More Array functions
+
+**08 - Fun with HTML5 Canvas**
+- HTML Canvas
