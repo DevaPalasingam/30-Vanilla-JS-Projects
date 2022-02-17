@@ -29,3 +29,6 @@ One day this repository will be really cool!
 
 **08 - Fun with HTML5 Canvas**
 - HTML Canvas
+
+**09 - Dev Tools Domination**
+- All the different console commands
